@@ -1,0 +1,1 @@
+[{"user":"admin","pass":"$2y$12$O88xpkwdI3EBBynCgAjoHu7RvKyl0Hqm98B2LPxviS1vW0QTY3Ey6"},{"user":"xan","pass":"$2y$12$4UHfMLs4eiabryDLTbRd9.KL3sCfyMlFgIceY1YNxSecdfTyqJUhq"}]
